@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=nestor@backyardbrains.com"
+                 "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=nestor@backyardbrains.com&ctz=America\/Detroit&mode=Week"
                 }],
          "type":"tilelayer",
          "visible":true,
